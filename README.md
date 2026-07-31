@@ -135,25 +135,7 @@ Angular • React • JavaScript • TypeScript • HTML5 • CSS3
 
 </p>
 
-AWS
-
-Docker
-
-Kubernetes
-
-GitLab CI/CD
-
-Jenkins
-
-Ansible
-
-JFrog Artifactory
-
-SonarQube
-
-Prometheus
-
-Grafana
+AWS • Docker • Kubernetes • GitLab CI/CD • Jenkins • Ansible • JFrog Artifactory • SonarQube • Prometheus • Grafana
 
 ---
 
@@ -165,21 +147,19 @@ Grafana
 
 </p>
 
-Oracle
-
-SQL Server
-
-PostgreSQL
-
-MySQL
+Oracle • SQL Server • PostgreSQL • MySQL
 
 ---
 
 ## Messaging
 
-Kafka
+<p>
 
-RabbitMQ
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq"/>
+
+</p>
+
+Kafka • RabbitMQ
 
 ---
 
