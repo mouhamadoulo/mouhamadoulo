@@ -1,5 +1,8 @@
-
-## 🇫🇷 Français
+<p align="right">
+  <b>🌐 Langue :</b>
+  <a href="./README.md">🇬🇧 English</a> | 
+  <a href="./README.fr.md">🇫🇷 Français</a>
+</p>
 
 ### Bonjour, moi c'est Mouhamadou Moustapha LO 👋
 #### 🚀 Développeur Senior Fullstack (Java / Angular) | Cloud | DevOps & IA
