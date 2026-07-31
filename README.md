@@ -46,14 +46,6 @@
 * 📊 **Budget & Expense Tracker**: Personal finance manager featuring interactive stats, budget alerts, and data export built with Java 21 & Angular[cite: 1].
 * ✅ **Task Manager (To-Do App)**: Dashboard application with JWT/Spring Security, priority levels, and task tracking[cite: 1].
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mouhamadoulo&show_icons=true&theme=radial&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouhamadoulo&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
