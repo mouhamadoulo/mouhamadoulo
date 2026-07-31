@@ -1,8 +1,14 @@
 <p align="right">
-  <b>🌐 Langue :</b>
-  <a href="./README.md">🇬🇧 English</a> | 
-  <a href="./README.fr.md">🇫🇷 Français</a>
+  <a href="./README.md">
+    <img src="https://flagcdn.com/24x18/gb.png" alt="English" /> <b>English</b>
+  </a> 
+  &nbsp;|&nbsp;
+  <a href="./README.fr.md">
+    <img src="https://flagcdn.com/24x18/fr.png" alt="Français" /> <b>Français</b>
+  </a>
 </p>
+
+---
 
 ### Bonjour, moi c'est Mouhamadou Moustapha LO 👋
 #### 🚀 Développeur Senior Fullstack (Java / Angular) | Cloud | DevOps & IA
