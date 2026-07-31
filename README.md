@@ -1,60 +1,363 @@
 <p align="right">
   <a href="./README.md">
-    <img src="https://flagcdn.com/24x18/gb.png" alt="English" /> <b>English</b>
-  </a> 
+    <img src="https://flagcdn.com/24x18/gb.png"/> <b>English</b>
+  </a>
   &nbsp;|&nbsp;
   <a href="./README.fr.md">
-    <img src="https://flagcdn.com/24x18/fr.png" alt="Français" /> <b>Français</b>
+    <img src="https://flagcdn.com/24x18/fr.png"/> <b>Français</b>
   </a>
 </p>
 
 ---
 
-# Hi there, I'm Mouhamadou Moustapha LO 👋
+<h1 align="center">
+👋 Hi, I'm Mouhamadou Moustapha LO
+</h1>
 
-### 🚀 Senior Fullstack Developer (Java / Angular) | Cloud | DevOps & AI Enthusiast
+<h3 align="center">
+Senior Fullstack Engineer • Java • Angular • Cloud • DevOps • AI Engineering
+</h3>
 
- dynamic software engineer with **8+ years of experience**[cite: 1] building robust, scalable microservices[cite: 1], modern web applications[cite: 1], and cloud-native architectures[cite: 1]. Experienced in large-scale enterprise environments (telecom, logistics)[cite: 1], batch processing, and legacy system modernization using modern DevOps pipelines and AI tools[cite: 1].
+<p align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&center=true&vCenter=true&width=900&lines=Senior+Java+%2F+Angular+Developer;Cloud+Native+Software+Engineer;AWS+%7C+Spring+Boot+%7C+Angular;DevOps+Automation+Enthusiast;AI-Assisted+Software+Engineering;Building+Scalable+Enterprise+Applications"/>
 
-### 🧰 Tech Stack & Skills
-
-**Backend & Data Processing**
-- **Languages & Frameworks:** Java (8/11/17/21), Spring Boot, Apache Spark, PHP (Symfony), Python, Node.js[cite: 1]
-- **Streaming & Messaging:** Apache Kafka, RabbitMQ[cite: 1]
-- **Databases & ETL:** PostgreSQL, Oracle, MySQL, SQL Server, Talend ETL[cite: 1]
-
-**Frontend**
-- **Technologies:** Angular (up to v18+), ReactJS, JavaScript, HTML5/CSS3, Bootstrap[cite: 1]
-
-**Cloud, DevOps & Architecture**
-- **Cloud & IaC:** Amazon Web Services (AWS - EC2, RDS, Lambda, S3), Ansible[cite: 1]
-- **CI/CD & Containers:** Docker, Kubernetes, GitLab CI/CD, Jenkins, JFrog Artifactory, iDeploy[cite: 1]
-- **Monitoring & Quality:** Prometheus, Grafana, SonarQube[cite: 1]
-- **Architecture:** Microservices, REST APIs, Serverless, Event-Driven Architecture (EDA), Agile/Scrum[cite: 1]
-
-**AI-Assisted Engineering**
-- **Tools & Assistants:** GitHub Copilot, Claude Code, Codex, Custom LLMs (ChatGPT, Claude, Gemini)[cite: 1]
+</p>
 
 ---
 
-### 🌟 Key Highlights & Projects
+<p align="center">
 
-* 📡 **Bouygues Telecom (Industrialization & Migration)**: Modernized and migrated critical backend batch/telecom applications to AWS Cloud, replaced legacy tools with Spring Boot & Spark microservices, and upgraded legacy web tools to Angular 18[cite: 1].
-* 🛒 **E-Commerce Platform**: Fullstack application built with Angular & Spring Boot with JWT authentication, cart/order management, stock tracking, and online payment[cite: 1].
-* 📊 **Budget & Expense Tracker**: Personal finance manager featuring interactive stats, budget alerts, and data export built with Java 21 & Angular[cite: 1].
-* ✅ **Task Manager (To-Do App)**: Dashboard application with JWT/Spring Security, priority levels, and task tracking[cite: 1].
+<img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring_Boot-Expert-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Angular-Expert-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AWS-Cloud-yellow?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DevOps-CI/CD-blueviolet?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Agentic%20AI-000000?style=for-the-badge"/>
+
+</p>
 
 ---
 
-### 📫 Connect with Me
+# 🚀 About Me
 
-- **Portfolio / Website:** [votre-portfolio.com](https://votre-portfolio.com)
-- **LinkedIn:** [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
-- **Email:** [mouhamadoulo39@gmail.com](mailto:mouhamadoulo39@gmail.com)
+I'm a **Senior Fullstack Software Engineer** with **8+ years of experience** designing and developing enterprise-grade applications.
+
+Throughout my career, I've contributed to:
+
+- ☁ Cloud migrations
+- 🔄 Legacy application modernization
+- ⚙ DevOps automation
+- 📡 Telecom information systems
+- 📊 Data processing platforms
+- 🏗 Microservices architectures
+- 🤖 AI-assisted software engineering
+
+I enjoy designing scalable systems, improving software quality, automating repetitive tasks and leveraging **Generative AI** to accelerate software delivery.
 
 ---
 
-> *"Automating operations, modernizing legacy systems, and crafting scalable web solutions."*
+# 💼 What I'm Working On
+
+- 🚀 Java 21 & Spring Boot 4
+- ⚡ Angular 21+
+- ☁ AWS Cloud
+- 🐳 Docker & Kubernetes
+- 🔄 CI/CD Automation
+- 🤖 AI Agents
+- 🧠 LLM Engineering
+- 📡 Event-Driven Architecture
+
+---
+
+# 🧠 Core Expertise
+
+```text
+Backend Development
+█████████████████████████████ 100%
+
+Frontend Development
+█████████████████████████░░░░ 90%
+
+Cloud Computing
+███████████████████████░░░░░░ 85%
+
+DevOps
+███████████████████████░░░░░░ 85%
+
+Software Architecture
+████████████████████████░░░░░ 90%
+
+Artificial Intelligence
+██████████████████████░░░░░░░ 80%
+```
+
+---
+
+# 🛠 Tech Stack
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,php,python"/>
+
+</p>
+
+Java • Spring Boot • Apache Spark • NodeJS • Symfony • Python
+
+---
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,react,js,ts,html,css,bootstrap"/>
+
+</p>
+
+Angular • React • JavaScript • TypeScript • HTML5 • CSS3
+
+---
+
+## Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,gitlab,jenkins,linux"/>
+
+</p>
+
+AWS
+
+Docker
+
+Kubernetes
+
+GitLab CI/CD
+
+Jenkins
+
+Ansible
+
+JFrog Artifactory
+
+SonarQube
+
+Prometheus
+
+Grafana
+
+---
+
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</p>
+
+Oracle
+
+SQL Server
+
+PostgreSQL
+
+MySQL
+
+---
+
+## Messaging
+
+Kafka
+
+RabbitMQ
+
+---
+
+## AI Engineering
+
+GitHub Copilot
+
+Claude Code
+
+Codex
+
+ChatGPT
+
+Claude
+
+Gemini
+
+Custom LLM Workflows
+
+Prompt Engineering
+
+AI Agents
+
+---
+
+# 🏗 Engineering Mindset
+
+```mermaid
+mindmap
+  root((Software Engineering))
+
+    Backend
+
+        Java
+
+        Spring Boot
+
+        Spark
+
+        Kafka
+
+        RabbitMQ
+
+    Frontend
+
+        Angular
+
+        React
+
+    Cloud
+
+        AWS
+
+        Docker
+
+        Kubernetes
+
+    DevOps
+
+        GitLab CI
+
+        Jenkins
+
+        SonarQube
+
+        Ansible
+
+    AI
+
+        Copilot
+
+        Claude Code
+
+        Codex
+
+        ChatGPT
+
+        Gemini
+```
+
+---
+
+# ☁ Cloud Native Workflow
+
+```mermaid
+flowchart LR
+
+Developer
+
+--> Git
+
+--> GitLab CI
+
+--> Docker
+
+--> Kubernetes
+
+--> AWS
+
+--> Monitoring
+
+--> Production
+
+Production
+
+--> Prometheus
+
+Production
+
+--> Grafana
+```
+
+---
+
+# 📈 Software Delivery Lifecycle
+
+```mermaid
+flowchart TD
+
+BusinessNeed
+
+-->
+
+Architecture
+
+-->
+
+Development
+
+-->
+
+AI Assisted Coding
+
+-->
+
+Testing
+
+-->
+
+CI/CD
+
+-->
+
+Deployment
+
+-->
+
+Monitoring
+
+-->
+
+Continuous Improvement
+```
+
+---
+
+# 🎯 What Defines Me
+
+✅ Enterprise Software Development
+
+✅ Legacy System Modernization
+
+✅ Cloud Migration
+
+✅ Microservices
+
+✅ DevOps Automation
+
+✅ Clean Architecture
+
+✅ High Performance Applications
+
+✅ AI-Augmented Development
+
+---
+
+# 💬 Favorite Quote
+
+> **"Build software that scales. Automate everything. Let AI handle repetitive work so engineers can focus on solving real business problems."**
+
+---
