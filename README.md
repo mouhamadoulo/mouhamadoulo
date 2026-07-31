@@ -267,7 +267,8 @@ flowchart TD
     CICD --> Deployment["Deployment"]
     Deployment --> Monitoring["Monitoring"]
     Monitoring --> ContinuousImprovement["Continuous Improvement"]
-```---
+```
+---
 
 # 🎯 What Defines Me
 
