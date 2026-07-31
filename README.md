@@ -1,3 +1,8 @@
+<p align="right">
+  <a href="./README.md">🇬🇧 English</a> | 
+  <a href="./README.fr.md">🇫🇷 Français</a>
+</p>
+
 # Hi there, I'm Mouhamadou Moustapha LO 👋
 
 ### 🚀 Senior Fullstack Developer (Java / Angular) | Cloud | DevOps & AI Enthusiast
@@ -49,7 +54,7 @@
 
 - **Portfolio / Website:** [votre-portfolio.com](https://votre-portfolio.com)
 - **LinkedIn:** [linkedin.com/in/votre-profil](https://linkedin.com/in/votre-profil)
-- **Email:** [votre.email@example.com](mailto:votre.email@example.com)
+- **Email:** [mouhamadoulo39@gmail.com](mailto:mouhamadoulo39@gmail.com)
 
 ---
 
