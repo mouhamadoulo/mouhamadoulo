@@ -259,43 +259,15 @@ flowchart LR
 
 ```mermaid
 flowchart TD
-
-BusinessNeed
-
--->
-
-Architecture
-
--->
-
-Development
-
--->
-
-AI Assisted Coding
-
--->
-
-Testing
-
--->
-
-CI/CD
-
--->
-
-Deployment
-
--->
-
-Monitoring
-
--->
-
-Continuous Improvement
-```
-
----
+    BusinessNeed["Business Need"] --> Architecture["Architecture"]
+    Architecture --> Development["Development"]
+    Development --> AIAssistedCoding["AI Assisted Coding"]
+    AIAssistedCoding --> Testing["Testing"]
+    Testing --> CICD["CI/CD"]
+    CICD --> Deployment["Deployment"]
+    Deployment --> Monitoring["Monitoring"]
+    Monitoring --> ContinuousImprovement["Continuous Improvement"]
+```---
 
 # 🎯 What Defines Me
 
