@@ -1,7 +1,14 @@
 <p align="right">
-  <a href="./README.md">🇬🇧 English</a> | 
-  <a href="./README.fr.md">🇫🇷 Français</a>
+  <a href="./README.md">
+    <img src="https://flagcdn.com/24x18/gb.png" alt="English" /> <b>English</b>
+  </a> 
+  &nbsp;|&nbsp;
+  <a href="./README.fr.md">
+    <img src="https://flagcdn.com/24x18/fr.png" alt="Français" /> <b>Français</b>
+  </a>
 </p>
+
+---
 
 # Hi there, I'm Mouhamadou Moustapha LO 👋
 
