@@ -165,17 +165,13 @@ Kafka • RabbitMQ
 
 ## AI Engineering
 
-GitHub Copilot
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubcopilot,claude,chatgpt,gemini" />
+  </a>
+</p>
 
-Claude Code
-
-Codex
-
-ChatGPT
-
-Claude
-
-Gemini
+GitHub Copilot • Claude • Claude Code • Codex • ChatGPT  • Gemini
 
 Custom LLM Workflows
 
