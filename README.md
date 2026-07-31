@@ -242,32 +242,17 @@ mindmap
 
 ```mermaid
 flowchart LR
+    Developer[Developer] --> Git[Git]
+    Git --> GitLabCI[GitLab CI]
+    GitLabCI --> Docker[Docker]
+    Docker --> Kubernetes[Kubernetes]
+    Kubernetes --> AWS[AWS]
+    AWS --> Monitoring[Monitoring]
+    Monitoring --> Production[Production]
 
-Developer
-
---> Git
-
---> GitLab CI
-
---> Docker
-
---> Kubernetes
-
---> AWS
-
---> Monitoring
-
---> Production
-
-Production
-
---> Prometheus
-
-Production
-
---> Grafana
+    Production --> Prometheus[Prometheus]
+    Production --> Grafana[Grafana]
 ```
-
 ---
 
 # 📈 Software Delivery Lifecycle
