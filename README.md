@@ -442,76 +442,18 @@ Implemented production monitoring using
 
 # 🏗 Technical Ecosystem
 
-```mermaid
 graph TD
-
-BusinessApplications
-
--->
-
-GitLab
-
-GitLab
-
--->
-
-CI/CD
-
-CI/CD
-
--->
-
-Docker
-
-Docker
-
--->
-
-Kubernetes
-
-Kubernetes
-
--->
-
-AWS
-
-AWS
-
--->
-
-Spring Boot
-
-Spring Boot
-
--->
-
-RabbitMQ
-
-RabbitMQ
-
--->
-
-Oracle
-
-Spring Boot
-
--->
-
-Spark
-
-Spark
-
--->
-
-Monitoring
-
-Monitoring
-
--->
-
-Grafana
-```
-
+    BusinessApplications --> GitLab
+    GitLab --> CI_CD["CI/CD"]
+    CI_CD --> Docker
+    Docker --> Kubernetes
+    Kubernetes --> AWS
+    AWS --> SpringBoot["Spring Boot"]
+    SpringBoot --> RabbitMQ
+    RabbitMQ --> Oracle
+    SpringBoot --> Spark
+    Spark --> Monitoring
+    Monitoring --> Grafana
 ---
 
 # 🧠 AI-assisted Software Engineering
@@ -560,44 +502,15 @@ During recent projects I integrated AI into everyday software development.
 
 # 🚀 Typical Engineering Workflow
 
-```mermaid
 flowchart LR
-
-Requirements
-
--->
-
-Architecture
-
--->
-
-Development
-
--->
-
-GitHub Copilot
-
--->
-
-Code Review
-
--->
-
-Testing
-
--->
-
-CI/CD
-
--->
-
-Deployment
-
--->
-
-Monitoring
-```
-
+    Requirements --> Architecture
+    Architecture --> Development
+    Development --> GitHubCopilot["GitHub Copilot"]
+    GitHubCopilot --> CodeReview["Code Review"]
+    CodeReview --> Testing
+    Testing --> CI_CD["CI/CD"]
+    CI_CD --> Deployment
+    Deployment --> Monitoring
 ---
 
 # 🌍 Industries
