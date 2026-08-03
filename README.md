@@ -505,6 +505,7 @@ During recent projects I integrated AI into everyday software development.
 
 # 🚀 Typical Engineering Workflow
 
+```mermaid
 flowchart LR
     Requirements --> Architecture
     Architecture --> Development
@@ -514,6 +515,8 @@ flowchart LR
     Testing --> CI_CD["CI/CD"]
     CI_CD --> Deployment
     Deployment --> Monitoring
+```
+
 ---
 
 # 🌍 Industries
