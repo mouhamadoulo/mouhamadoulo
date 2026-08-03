@@ -181,95 +181,6 @@ AI Agents
 
 ---
 
-# 🏗 Engineering Mindset
-
-```mermaid
-mindmap
-  root((Software Engineering))
-
-    Backend
-
-        Java
-
-        Spring Boot
-
-        Spark
-
-        Kafka
-
-        RabbitMQ
-
-    Frontend
-
-        Angular
-
-        React
-
-    Cloud
-
-        AWS
-
-        Docker
-
-        Kubernetes
-
-    DevOps
-
-        GitLab CI
-
-        Jenkins
-
-        SonarQube
-
-        Ansible
-
-    AI
-
-        Copilot
-
-        Claude Code
-
-        Codex
-
-        ChatGPT
-
-        Gemini
-```
-
----
-
-# ☁ Cloud Native Workflow
-
-```mermaid
-flowchart LR
-    Developer[Developer] --> Git[Git]
-    Git --> GitLabCI[GitLab CI]
-    GitLabCI --> Docker[Docker]
-    Docker --> Kubernetes[Kubernetes]
-    Kubernetes --> AWS[AWS]
-    AWS --> Monitoring[Monitoring]
-    Monitoring --> Production[Production]
-
-    Production --> Prometheus[Prometheus]
-    Production --> Grafana[Grafana]
-```
----
-
-# 📈 Software Delivery Lifecycle
-
-```mermaid
-flowchart TD
-    BusinessNeed["Business Need"] --> Architecture["Architecture"]
-    Architecture --> Development["Development"]
-    Development --> AIAssistedCoding["AI Assisted Coding"]
-    AIAssistedCoding --> Testing["Testing"]
-    Testing --> CICD["CI/CD"]
-    CICD --> Deployment["Deployment"]
-    Deployment --> Monitoring["Monitoring"]
-    Monitoring --> ContinuousImprovement["Continuous Improvement"]
-```
----
-
 # 🎯 What Defines Me
 
 ✅ Enterprise Software Development
@@ -287,16 +198,6 @@ flowchart TD
 ✅ High Performance Applications
 
 ✅ AI-Augmented Development
-
----
-
-# 💬 Favorite Quote
-
-> **"Build software that scales. Automate everything. Let AI handle repetitive work so engineers can focus on solving real business problems."**
-
----
-
-
 
 ---
 
@@ -331,6 +232,8 @@ timeline
 
 For more than **8 years**, I've been designing, developing and modernizing enterprise software in large organizations.
 
+### Senior Fullstack Engineer (2018–2025)
+
 My expertise combines:
 
 - ☁ Cloud Migration
@@ -340,21 +243,6 @@ My expertise combines:
 - 📊 Big Data Processing
 - 🔄 Legacy Modernization
 - 🤖 AI-assisted Development
-
----
-
-## 💼 Experience
-
-### Senior Fullstack Engineer (2018–2025)
-
-Worked on large-scale enterprise applications in the telecom industry:
-
-- Cloud migration to AWS
-- Legacy modernization
-- Microservices architecture
-- Big Data processing with Spark
-- CI/CD automation
-- Monitoring with Prometheus & Grafana
 
 ---
 
