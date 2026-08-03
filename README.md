@@ -442,6 +442,7 @@ Implemented production monitoring using
 
 # 🏗 Technical Ecosystem
 
+```mermaid
 graph TD
     BusinessApplications --> GitLab
     GitLab --> CI_CD["CI/CD"]
@@ -454,6 +455,8 @@ graph TD
     SpringBoot --> Spark
     Spark --> Monitoring
     Monitoring --> Grafana
+```
+
 ---
 
 # 🧠 AI-assisted Software Engineering
